@@ -1,0 +1,32 @@
+[
+    {
+       "company": "Poland Spring",
+       "rating": "5 stars",
+       "woah": "wow",
+       "image": "" 
+    },
+    {
+        "company": "Fuji",
+        "rating": "5 stars",
+        "woah": "wow",
+        "image": "" 
+     },
+     {
+        "company": "Essentia",
+        "rating": "5 stars",
+        "woah": "wow",
+        "image": "" 
+     },
+     {
+        "company": "Purelife",
+        "rating": "4 stars",
+        "woah": "wow",
+        "image": "" 
+     },
+     {
+        "company": "S.perllegrino",
+        "rating": "5 stars",
+        "woah": "wow",
+        "image": "" 
+     }
+]

@@ -1,0 +1,10 @@
+body {
+    background-color: #2C3333;
+    color: #E7F6F2;
+}
+.water {
+    width: 10px;
+    border: 5px solid  #E7F6F2;
+    margin-left: auto;
+    margin-right: auto;
+}
